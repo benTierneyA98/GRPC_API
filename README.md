@@ -1,2 +1,2 @@
-# GRPC_API
-Development  of GRPC API using .proto file
+# gRPC_API
+Development  of gRPC API using .proto file
